@@ -1,0 +1,13 @@
+.big, .color {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.big {
+    background-color: hsl(0, 0%, 0%);
+    color: white;
+}
+
+.color {
+    background-color: #ffff00;
+}
